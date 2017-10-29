@@ -7,5 +7,7 @@ When you run "run.sh" , it automatically runs find_political_donors.py and creat
 #### The following libraries are required to run the python scipt
 1. Pandas
 2. NumPy
+
+
 Note: You might need to set permissions for run.sh. Use
 chmod u+x run.sh
